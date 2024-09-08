@@ -7,7 +7,7 @@ class Script {
 	"<html lang=\"en\">\r\n" + //
 	"<head>\r\n" + //
 	"    <meta charset=\"UTF-8\">\r\n" + //
-	"	<link rel=\"stylesheet\" href=\"styles.css\">\r\n" + //
+	"	<link rel=\"stylesheet\" href=\"../styles.css\">\r\n" + //
 	"    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n" + //
 	"    <title>";
 
@@ -58,7 +58,6 @@ static String FOOTER = "\r\n" +
 
 		}
 
-		System.out.println(fetchBody(indexDotMd));
 
 		File[] files = contentDir.listFiles();
 
