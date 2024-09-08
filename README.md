@@ -11,3 +11,8 @@ Blogmaker is a simple blog generator that converts markdown files into a static 
 Your index.md file will be converted to index.html and placed in the output folder.
 
 Your blog posts need to be linked in the index.md file with the proper formatting and all the posts in the content folder in markdown format to be converted to html and will be generated in the output folder.
+
+In case you find anything troubling, I am on <br>
+twttr: @dhrm1k <br>
+instagram: @lastsonofkrypton007<br>
+mail me at dharmiik at proton dot me.
