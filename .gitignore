@@ -4,3 +4,6 @@
 # But not these files...
 !.gitignore
 !script.java
+!README.md
+!style.css
+
